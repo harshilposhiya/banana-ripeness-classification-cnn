@@ -7,7 +7,7 @@ This project uses a Convolutional Neural Network (CNN) to classify banana images
 Dataset Name: Banana Classification
 
 Dataset Link:
-https://www.kaggle.com/code/harshilposhiya/notebookb1756468d3
+(https://www.kaggle.com/datasets/koukazu/banana-ripness-level)
 Notebook link -https://www.kaggle.com/code/harshilposhiya/notebookb1756468d3
 
 ## Classes
