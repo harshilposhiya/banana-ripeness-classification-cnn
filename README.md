@@ -8,6 +8,7 @@ Dataset Name: Banana Classification
 
 Dataset Link:
 https://www.kaggle.com/code/harshilposhiya/notebookb1756468d3
+Notebook link -https://www.kaggle.com/code/harshilposhiya/notebookb1756468d3
 
 ## Classes
 - Overripe
