@@ -56,7 +56,6 @@ The CNN model successfully classified banana images into four ripeness categorie
 - confusion_matrix.png
 - classification_report.png
 - sample_dataset_images.png
-- banana_cnn_model.h5
 
 ## How to Run
 
